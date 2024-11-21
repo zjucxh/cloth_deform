@@ -1,0 +1,17 @@
+# SMPL model file
+smpl_f: "/home/cxh/mnt/nas/Documents/sources/assets/SMPL/basicModel_f_lbs_10_207_0_v1.0.0.pkl"
+smpl_m: "/home/cxh/mnt/nas/Documents/sources/assets/SMPL/basicModel_m_lbs_10_207_0_v1.0.0.pkl"
+
+#Dataset
+data_train: "/home/cxh/Downloads/dataset/CLOTH3D/train"
+train_indices: "/home/cxh/Downloads/dataset/CLOTH3D/train_indices.txt"
+data_val: "/home/cxh/Downloads/dataset/CLOTH3D/val_t1"
+#data_val_t2: "/home/cxh/Downloads/dataset/CLOTH3D/val_t2"
+data_val_t2: "assets"
+len_val_t2: 4 
+data_val_t3: "/home/cxh/Downloads/dataset/CLOTH3D/val_t3"
+val_indices: "/home/cxh/Downloads/dataset/CLOTH3D/val_t1.txt"
+data_test: "/home/cxh/Downloads/dataset/CLOTH3D/test_t1"
+test_indices: "/home/cxh/Downloads/dataset/CLOTH3D/test_t1.txt"
+
+
